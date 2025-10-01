@@ -16,7 +16,14 @@
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
 
-
+user = input("Would you like a compliment? ")
+yes = ("You have wonderful eyes.")
+if (user == 'yes'):
+    print(f"{yes}")
+    print("Thank you for playing.")
+else:
+    print("No compliment for you!")
+    print ("Thank you for playing.")
 
 
 
