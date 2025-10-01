@@ -1,7 +1,7 @@
 # FILE NAME - compliment_02.py
 
-# NAME: 
-# DATE: 
+# NAME: Matthew Brassie 
+# DATE: October 1
 # BRIEF DESCRIPTION:  
 
 
